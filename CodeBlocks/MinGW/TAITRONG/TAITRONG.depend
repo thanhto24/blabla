@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1658115140 source:c:\c++\codeblocks\mingw\taitrong\main.cpp
+	<iostream>
+	<string.h>
+	<vector>
+

@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1660899852 source:c:\c++\codeblocks\mingw\robot\main.cpp
+	<iostream>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656384145 source:c:\c++\codeblocks\mingw\choso\main.cpp
+	<iostream>
+	<map>
+	<set>
+

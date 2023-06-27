@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1656390512 source:c:\c++\codeblocks\mingw\tivi2\main.cpp
+	<iostream>
+	<algorithm>
+

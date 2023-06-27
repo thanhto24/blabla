@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658809025 source:c:\c++\codeblocks\mingw\j4f - dia da mentira\main.cpp
+	<iostream>
+	<time.h>
+

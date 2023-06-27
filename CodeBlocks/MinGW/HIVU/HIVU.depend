@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656494846 source:c:\c++\codeblocks\mingw\hivu\main.cpp
+	<iostream>
+	<set>
+	<algorithm>
+

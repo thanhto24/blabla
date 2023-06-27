@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658733984 source:c:\c++\codeblocks\mingw\vdseq02\main.cpp
+	<iostream>
+	<vector>
+

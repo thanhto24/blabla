@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1656491073 source:c:\c++\codeblocks\mingw\disc0\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<string.h>
+

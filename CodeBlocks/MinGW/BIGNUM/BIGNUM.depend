@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1667387511 source:c:\c++\codeblocks\mingw\bignum\main.cpp
+	<iostream>
+

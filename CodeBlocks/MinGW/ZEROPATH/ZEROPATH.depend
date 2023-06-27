@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1657006864 source:c:\c++\codeblocks\mingw\zeropath\main.cpp
+	<iostream>
+	<math.h>
+	<set>
+	<string.h>
+

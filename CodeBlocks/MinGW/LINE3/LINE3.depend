@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1656510444 source:c:\c++\codeblocks\mingw\line3\main.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<string.h>
+

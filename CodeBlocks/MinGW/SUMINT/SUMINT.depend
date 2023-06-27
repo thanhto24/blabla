@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1658295046 source:c:\c++\codeblocks\mingw\sumint\main.cpp
+	<iostream>
+	<math.h>
+	<vector>
+

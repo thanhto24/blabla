@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676427155 source:c:\c++\codeblocks\mingw\testing\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+

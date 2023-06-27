@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1657030580 source:c:\c++\codeblocks\mingw\power\main.cpp
+	<iostream>
+

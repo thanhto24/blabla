@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661867851 source:c:\c++\codeblocks\mingw\tapso\main.cpp
+	<iostream>
+	<vector>
+	<set>
+

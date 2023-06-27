@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668085324 source:c:\c++\codeblocks\mingw\maxmed\main.cpp
+	<iostream>
+	<algorithm>
+

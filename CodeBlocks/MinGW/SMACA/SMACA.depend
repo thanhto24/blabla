@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1656387666 source:c:\c++\codeblocks\mingw\smaca\main.cpp
+	<iostream>
+	<set>
+

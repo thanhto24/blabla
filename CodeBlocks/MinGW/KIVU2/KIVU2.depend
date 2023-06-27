@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656395298 source:c:\c++\codeblocks\mingw\kivu2\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

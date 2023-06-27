@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663495725 source:c:\c++\codeblocks\mingw\vdseq03\main.cpp
+	<iostream>
+	<algorithm>
+	<map>
+

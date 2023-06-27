@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1659854979 source:c:\c++\codeblocks\mingw\data\main.cpp
+	<iostream>
+	<set>
+	<algorithm>
+
